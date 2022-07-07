@@ -1,5 +1,5 @@
 # Object Identification with Raspberry Pi
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make them want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
