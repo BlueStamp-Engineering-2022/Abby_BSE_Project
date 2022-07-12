@@ -1,3 +1,5 @@
+# This opens an object detector that can detect and classify common objects in live-feed video.
+
 # Before running in the terminal, folllow TensorFlow's YouTube steps:
     # clone the GitHub model repository
     # enter/activate the virtual environment tflite using the code:
