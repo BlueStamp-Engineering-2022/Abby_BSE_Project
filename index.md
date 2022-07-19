@@ -7,7 +7,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg)
 <p align="center">
-  <img width="600" height="200" src="https://www.python.org/python-.png">
+  <img width="352" height="352" src="https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg">
 </p>
   
 # Final Milestone
