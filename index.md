@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Abby S | Schreiber High School | Software | Incoming Senior
 
-![Headstone Image](https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg)
+![Headstone Image]
 <p align="center">
   <img width="352" height="352" src="https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg">
 </p>
