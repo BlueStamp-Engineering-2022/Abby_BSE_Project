@@ -17,12 +17,14 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 
 
+
 </pre>
 
 # Second Milestone
 
 [![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=763d7XsoXwE "Second Milestone")
 <pre>
+
 
 
 
@@ -33,6 +35,7 @@ My first milestone started with setting up the Raspberry Pi, ribbon camera, and 
 
 [![First Milestone](https://i3.ytimg.com/vi/PaVFm4ICkAI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PaVFm4ICkAI "First Milestone")
 <pre>
+
 
 
 
