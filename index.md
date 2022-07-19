@@ -13,14 +13,20 @@ This will serve as a brief description of your project. Limit this to three sent
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<pre>
 
 
+
+</pre>
 
 # Second Milestone
 
 [![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=763d7XsoXwE "Second Milestone")
+<pre>
 
 
+
+</pre>
 
 # First Milestone
 My first milestone started with setting up the Raspberry Pi, ribbon camera, and Dcorn desktop. An SD card was also inserted into the Pi, which provided the computer with storage and memory. Then, I wrote code in Raspberry Pi's Python editor to take a photo with the ribbon camera. After that, I used a pre-trained tensorflow model of images of common objects. This used live-feed video (from the Raspberry Pi camera) and OpenCV to process what the camera captured. In the Raspberry Pi terminal, I ran the detect.py code, which opened the pre-trained object detection app.
@@ -29,7 +35,9 @@ My first milestone started with setting up the Raspberry Pi, ribbon camera, and 
 <pre>
 
 
+
 </pre>
+
 # Starter Project
 My starter project is called Simon Says and serves as a mini version of the memory game Simon. This project allowed me to practice basic soldering skills. I had some issues with melting plastic with the iron, but fortunately, this did not impact the device's ability to run. Since my main project is software-based, I probably won't be doing much soldering later on. Even so, it was fun and useful to learn the process.
 
