@@ -19,7 +19,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 
 [![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=763d7XsoXwE "Second Milestone")
-
+<br />
+<br />
 
 
 # First Milestone
