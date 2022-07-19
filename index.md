@@ -26,9 +26,10 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My first milestone started with setting up the Raspberry Pi, ribbon camera, and Dcorn desktop. An SD card was also inserted into the Pi, which provided the computer with storage and memory. Then, I wrote code in Raspberry Pi's Python editor to take a photo with the ribbon camera. After that, I used a pre-trained tensorflow model of images of common objects. This used live-feed video (from the Raspberry Pi camera) and OpenCV to process what the camera captured. In the Raspberry Pi terminal, I ran the detect.py code, which opened the pre-trained object detection app.
 
 [![First Milestone](https://i3.ytimg.com/vi/PaVFm4ICkAI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PaVFm4ICkAI "First Milestone")
+<pre>
 
 
-
+</pre>
 # Starter Project
 My starter project is called Simon Says and serves as a mini version of the memory game Simon. This project allowed me to practice basic soldering skills. I had some issues with melting plastic with the iron, but fortunately, this did not impact the device's ability to run. Since my main project is software-based, I probably won't be doing much soldering later on. Even so, it was fun and useful to learn the process.
 
