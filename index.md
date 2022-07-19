@@ -5,8 +5,6 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Abby S | Schreiber High School | Software | Incoming Senior
 
-![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLV-YDfqQdp219YqTJSM2JK4ZVRv5XeBLT6ztFlJGZsdD1wkNc9OEk_qlOJHJQm_62XWkc12TH0OV2HHJdgFt36PPx9skuuckdvvVcZ83H36X_O_szLM_lKmxis8GBpkpi5IRF8vM_H9EKprgIbJb5M4=s1380-no?authuser=0)
-
 ![Headstone Image](https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg)
   
 # Final Milestone
