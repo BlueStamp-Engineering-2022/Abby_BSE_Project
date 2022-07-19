@@ -1,7 +1,7 @@
 # Object Detection with Raspberry Pi
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make them want to read more.
 
-                                            | **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Abby S | Schreiber High School | Software | Incoming Senior
 
