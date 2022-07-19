@@ -7,7 +7,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLV-YDfqQdp219YqTJSM2JK4ZVRv5XeBLT6ztFlJGZsdD1wkNc9OEk_qlOJHJQm_62XWkc12TH0OV2HHJdgFt36PPx9skuuckdvvVcZ83H36X_O_szLM_lKmxis8GBpkpi5IRF8vM_H9EKprgIbJb5M4=s1380-no?authuser=0)
 
-![Headstone Image](https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_50.jpeg)
+![Headstone Image](https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
