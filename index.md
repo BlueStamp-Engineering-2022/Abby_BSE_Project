@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # Second Milestone
 
-[![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=763d7XsoXwE "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
 My first milestone started with setting up the Raspberry Pi, ribbon camera, and Dcorn desktop. An SD card was inserted into the Pi, which provided the computer with storage and memory.
