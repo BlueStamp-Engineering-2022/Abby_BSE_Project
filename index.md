@@ -21,6 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 </pre>
 
 # Second Milestone
+My second milestone revolved around training my own custom TensorFlow Lite model. Its goal was to differentiate between benign moles and melanoma in new images such as those from my live-feed Raspberry Pi camera. I used an app from GitHub called LabelImg to annotate images of skin cancer and moles from the internet, and these annotations got saved as XML files along side the JPG image files. I uploaded them to Google Colab, separated them into training and validation sets, and used Google Colab's guidelines to train in 25 epochs and 4 batches. Once the model had been trained and evaluated, I exported it to the Downloads folder on my Raspberry Pi as a tflite file. I ran the detect.py code in the terminal (after specifying that I wanted it to use my custom newly-trained model), and the object detection app opened. This time, it could only identify images from the live-feed as "melanoma" or "benign_mole." Although its accuracy was lower than desired, my custom model ran without errors.
 
 [![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=763d7XsoXwE "Second Milestone")
 <pre>
@@ -31,7 +32,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 </pre>
 
 # First Milestone
-My first milestone started with setting up the Raspberry Pi, ribbon camera, and Dcorn desktop. An SD card was also inserted into the Pi, which provided the computer with storage and memory. Then, I wrote code in Raspberry Pi's Python editor to take a photo with the ribbon camera. After that, I used a pre-trained tensorflow model of images of common objects. This used live-feed video (from the Raspberry Pi camera) and OpenCV to process what the camera captured. In the Raspberry Pi terminal, I ran the detect.py code, which opened the object detection app. It was able to correctly identify objects such as "person," "keyboard," "phone," and more.
+My first milestone started with setting up the Raspberry Pi, ribbon camera, and Dcorn desktop. An SD card was also inserted into the Pi, which provided the computer with storage and memory. Then, I wrote code in Raspberry Pi's Python editor to take a photo with the ribbon camera. After that, I used a pre-trained TensorFlow Lite model of images of common objects. This used live-feed video (from the Raspberry Pi camera) and OpenCV to process what the camera captured. In the Raspberry Pi terminal, I ran the detect.py code, which opened the object detection app. It was able to correctly identify objects such as "person," "keyboard," "phone," and more.
 
 [![First Milestone](https://i3.ytimg.com/vi/PaVFm4ICkAI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PaVFm4ICkAI "First Milestone")
 <pre>
