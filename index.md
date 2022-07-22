@@ -6,7 +6,7 @@ This project uses TensorFlow Lite to train a machine model that can identify mol
 | Abby S | Schreiber High School | Software | Incoming Senior
 
 <p align="center">
-  <img width="352" height="352" src="https://www.simpleimageresizer.com/_uploads/photos/d471ffb2/abby-bluestamp_2_25.jpeg">
+  <img width="352" height="352" src="https://lh3.googleusercontent.com/pw/AM-JKLV-YDfqQdp219YqTJSM2JK4ZVRv5XeBLT6ztFlJGZsdD1wkNc9OEk_qlOJHJQm_62XWkc12TH0OV2HHJdgFt36PPx9skuuckdvvVcZ83H36X_O_szLM_lKmxis8GBpkpi5IRF8vM_H9EKprgIbJb5M4=s1376-no?authuser=0">
 </p>
 
 # Second Milestone
