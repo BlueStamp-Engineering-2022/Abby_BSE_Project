@@ -9,6 +9,17 @@ This project uses TensorFlow Lite to train a machine model that can identify mol
   <img width="352" height="352" src="https://lh3.googleusercontent.com/pw/AM-JKLV-YDfqQdp219YqTJSM2JK4ZVRv5XeBLT6ztFlJGZsdD1wkNc9OEk_qlOJHJQm_62XWkc12TH0OV2HHJdgFt36PPx9skuuckdvvVcZ83H36X_O_szLM_lKmxis8GBpkpi5IRF8vM_H9EKprgIbJb5M4=s1376-no?authuser=0">
 </p>
 
+# Third Milestone
+My third milestone focused on improving the accuracy of my custom melanoma detection model. I annotated a new dataset of about 3,300 images from Kaggle using the LabelImg app. Then, I converted the image files and annotations into formats compatible with Google Colab. I followed a similar process of training the dataset in Google Colab and saving the trained model as a tflite file. This time, because of the expanded dataset, the accuracy of my model was much higher during the validation and testing stages. When I exported my new model to my Raspberry Pi downloads and ran it in the terminal with detect.py, it was able to identify my skin mole as "benign_mole."
+
+[![Second Milestone](https://i3.ytimg.com/vi/763d7XsoXwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=763d7XsoXwE "Second Milestone")
+<pre>
+
+
+
+
+</pre>
+
 # Second Milestone
 My second milestone revolved around training my own custom TensorFlow Lite model. Its goal was to differentiate between benign moles and melanoma in new images such as those from my live-feed Raspberry Pi camera. I used an app from GitHub called LabelImg to annotate images of skin cancer and moles from the internet, and these annotations got saved as XML files along side the JPG image files. I uploaded them to Google Colab, separated them into training and validation sets, and used Google Colab's guidelines to train in 25 epochs and 4 batches. Once the model had been trained and evaluated, I exported it to the Downloads folder on my Raspberry Pi as a tflite file. I ran the detect.py code in the terminal (after specifying that I wanted it to use my custom newly-trained model), and the object detection app opened. This time, it could only identify images from the live-feed as "melanoma" or "benign_mole." Although its accuracy was lower than desired, my custom model ran without errors.
 
