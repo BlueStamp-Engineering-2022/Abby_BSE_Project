@@ -12,7 +12,7 @@ This project uses TensorFlow Lite to train a machine model that can identify mol
 # Third Milestone
 My third milestone focused on improving the accuracy of my custom melanoma detection model. I annotated a new dataset of about 3,300 images from Kaggle using the LabelImg app. Then, I converted the image files and annotations into formats compatible with Google Colab. I followed a similar process of training the dataset in Google Colab and saving the trained model as a tflite file. This time, because of the expanded dataset, the accuracy of my model during validation and testing was much higher than that achieved by my original Milestone 2 model. When I exported my new model to my Raspberry Pi downloads and ran it in the terminal with detect.py, it was able to identify my skin mole as "benign_mole."
 
-[![Second Milestone](https://i3.ytimg.com/vi/FyVpKgvKm3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=FyVpKgvKm3A)
+[![Third Milestone](https://i3.ytimg.com/vi/FyVpKgvKm3A/hqdefault.jpg)](https://www.youtube.com/watch?v=FyVpKgvKm3A)
 <pre>
 
 
