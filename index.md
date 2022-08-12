@@ -1,5 +1,5 @@
 # Object Detection with Raspberry Pi
-This project uses TensorFlow Lite to train a machine model that can identify moles and melanoma. With just a Raspberry Pi computer and camera module, a world of software can be employed to differentiate between cancerous and benign skin lesions. Read more about the process below.
+This project uses TensorFlow Lite to train a machine learning model that can identify moles and melanoma. With just a Raspberry Pi computer and camera module, a world of software can be employed to differentiate between cancerous and benign skin lesions. Read more about the process below.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
