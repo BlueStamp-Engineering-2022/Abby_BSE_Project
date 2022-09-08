@@ -69,9 +69,7 @@ def run(model: str, camera_id: int, width: int, height: int, num_threads: int,
     success, image = cap.read()
 
     if not success:
-      sys.exit(
-          'ERROR: Unable to read from webcam. Please verify your webcam settings.'
-      )
+      sys.exit('ERROR: Unable to read from webcam. Please verify your webcam settings.')
 
     counter += 1
     image = cv2.flip(image, 1)
