@@ -12,7 +12,7 @@
 # get an error that says there's no module named cv2. Run in the terminal (in the proper directory and virtual
 # environment mentioned above) to avoid this error. 
 
-"""Main script to run the object detection routine."""
+# Main script to run the object detection routine.
 import argparse
 import sys
 import time
@@ -26,16 +26,16 @@ import utils
 
 def run(model: str, camera_id: int, width: int, height: int, num_threads: int,
         enable_edgetpu: bool) -> None:
-  """Continuously run inference on images acquired from the camera.
+  # Continuously run inference on images acquired from the camera.
 
-  Args:
-    model: Name of the TFLite object detection model.
-    camera_id: The camera id to be passed to OpenCV.
-    width: The width of the frame captured from the camera.
-    height: The height of the frame captured from the camera.
-    num_threads: The number of CPU threads to run the model.
-    enable_edgetpu: True/False whether the model is a EdgeTPU model.
-  """
+  # Args:
+    # model: Name of the TFLite object detection model.
+    # camera_id: The camera id to be passed to OpenCV.
+    # width: The width of the frame captured from the camera.
+    # height: The height of the frame captured from the camera.
+    # num_threads: The number of CPU threads to run the model.
+    # enable_edgetpu: True/False whether the model is a EdgeTPU model.
+ 
 
   # Variables to calculate FPS
   counter, fps = 0, 0
